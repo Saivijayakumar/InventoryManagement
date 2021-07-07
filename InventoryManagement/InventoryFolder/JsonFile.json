@@ -1,0 +1,63 @@
+{
+  "RiceList": [
+    {
+      "Name": "Biryani",
+      "Price": 200,
+      "Kg": 5,
+      "Type": "Mediam Grain"
+    },
+    {
+      "Name": "Fortune Rice",
+      "Price": 10,
+      "Kg": 1,
+      "Type": "Small Grain"
+    },
+    {
+      "Name": "India Rice",
+      "Price": 1000,
+      "Kg": 2,
+      "Type": "Long rice"
+    }
+  ],
+  "PulseList": [
+    {
+      "Name": "Beans",
+      "Price": 120,
+      "Kg": 1,
+      "Type": "Black Beans"
+    },
+    {
+      "Name": "Great Pulse",
+      "Price": 80,
+      "Kg": 4,
+      "Type": "Soft"
+    },
+    {
+      "Name": "Raw Beans",
+      "Price": 140,
+      "Kg": 4,
+      "Type": "Hard"
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Long Wheat",
+      "Price": 90,
+      "Kg": 1,
+      "Type": "Soft"
+    },
+    {
+      "Name": "white wheat",
+      "Price": 140,
+      "Kg": 3,
+      "Type": "spring"
+    },
+    {
+      "Name": "Hard white wheat",
+      "Price": 120,
+      "Kg": 2,
+      "Type": "Pure"
+    }
+  ]
+
+}
